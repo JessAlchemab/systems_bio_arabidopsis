@@ -136,4 +136,6 @@ functioning correctly.
 
 ### • Provide a link to a GitHub repo for your analysis (10%)
 
-Here we are, in the repo!
+The GitHub repo can be found at:
+
+https://github.com/JessAlchemab/systems_bio_arabidopsis
